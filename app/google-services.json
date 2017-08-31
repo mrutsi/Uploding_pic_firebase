@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "620080303710",
+    "firebase_url": "https://uplodingpicfirebase.firebaseio.com",
+    "project_id": "uplodingpicfirebase",
+    "storage_bucket": "uplodingpicfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620080303710:android:cf8069115981b673",
+        "android_client_info": {
+          "package_name": "com.example.codertribe_ruu.uploding_pic_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620080303710-u1me56865sg2hq2onlp60s99cp2dr3ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codertribe_ruu.uploding_pic_firebase",
+            "certificate_hash": "685b544de6c536c92b517013880237c03d3c4e04"
+          }
+        },
+        {
+          "client_id": "620080303710-l31pachg277dgnu974qnqk06ou0ob1aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2yONalqbFDYROr7Dchm9646fp1jtA44"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620080303710-l31pachg277dgnu974qnqk06ou0ob1aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
